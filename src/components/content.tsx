@@ -174,7 +174,7 @@ const Content = () => {
                         <span>Designed by </span>
                         <a href="https://rj45hugo.github.io" target="_blank">rj45hugo</a>
                         <span> & Developed by </span>
-                        <a href="https://rj45hugo.github.io" target="_blank">Wrj45hugo</a>
+                        <a href="https://rj45hugo.github.io" target="_blank">rj45hugo</a>
                     </Text>
                 </VStack>
             </VStack>
