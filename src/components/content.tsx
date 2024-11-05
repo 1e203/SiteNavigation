@@ -146,7 +146,7 @@ const Content = () => {
                                 让每个人都能找到自己需要的资源。如果你有比较好的资源，可以通过下方地址提供给我们。
                             </Text>
                             <Text>
-                                SiteNavigation 是 1e203 中的一个项目，想了解更多其他项目可以点击下方图片。
+                                SiteNavigation 是 1e203 中的一个项目，想了解更多其他项目可以点击下方logo。
                             </Text>
                             <Link
                                 href="https://1e203.github.io"
