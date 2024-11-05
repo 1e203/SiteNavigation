@@ -165,8 +165,8 @@ const Content = () => {
                                 <a className="linkColor" href="https://github.com/1e203/sitenavigation">SiteNavigation | github</a>
                             </Text>
                             <Text>
-                                资源推荐入口：
-                                <a className="linkColor" href="https://github.com/1e203/sitenavigation/issues?q=label%3A%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90+">github 上提交 issue</a>
+                                推荐资源入口：
+                                <a className="linkColor" href="https://github.com/1e203/SiteNavigation/issues/1">github 上提交 issue</a>
                             </Text>
                         </VStack>
                     </Box>
